@@ -1,2 +1,3 @@
 # example-website-simple
-example website using no servers
+An example website with no servers
+Technologies: HTML and CSS
